@@ -30,9 +30,6 @@ spring:
 kafka:
   host: ${KAFKA_HOST}
 
-server:
-  port: 8085
-
 
 logging:
   level:
